@@ -1,6 +1,7 @@
 <?php 
 
   include 'db.php';
+  $test = "just a test";
 
  ?>
 
